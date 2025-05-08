@@ -1,0 +1,7 @@
+*.class
+.idea
+.bsp
+target/
+project/
+akka-diagnostics/
+logs
